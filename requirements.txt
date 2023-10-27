@@ -5,4 +5,5 @@ scikit-learn
 scipy
 dataclasses
 catboost
+dill
 -e .
